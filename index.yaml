@@ -9,7 +9,7 @@ entries:
           url: https://hub.docker.com/_/busybox
     apiVersion: v2
     appVersion: latest
-    created: "2023-12-15T13:03:35.0627154+07:00"
+    created: "2023-12-15T13:07:27.7895961+07:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -29,6 +29,6 @@ entries:
     - https://github.com/SickHub/charts
     type: application
     urls:
-    - https://naldoray.github.io/helm-charts/charts/cronjobs-0.2.0.tgz
+    - https://naldoray.github.io/helm-charts/cronjobs-0.2.0.tgz
     version: 0.2.0
-generated: "2023-12-15T13:03:35.0610141+07:00"
+generated: "2023-12-15T13:07:27.7874593+07:00"
